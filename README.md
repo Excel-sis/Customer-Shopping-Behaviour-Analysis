@@ -283,3 +283,4 @@ The company has a diverse geographic customer base.
     -    The business demonstrates stable revenue performance and diversified item-level sales; however, strategic improvements are required in subscription engagement, category diversification, and demographic expansion.
     -    By implementing targeted retention strategies and product optimization initiatives, the company can significantly improve customer lifetime value and revenue sustainability.
 
+##Dashboard##
