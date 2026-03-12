@@ -191,10 +191,10 @@ These showed that the top-selling items which were the blouse, shirt, dress, pan
 
 **Key KPIs**
 
-        . Total Revenue
-        . Best Category
-        . Average Reviews Rating
-        . Number of Unique Items
+        . Total Revenue: $233,081
+        . Best Category: $104.26k (Clothing)
+        . Average Reviews Rating: 3.75
+        . Number of Unique Items: 25
 
 **Visualizations**
 
@@ -240,12 +240,22 @@ The result gotten indicated that payment usage was evenly distributed and this m
 
 **Customer Behavior Analysis** 
 
+
+
+![Customer Behavior  dashboard3](https://github.com/user-attachments/assets/a34f2359-1f40-441f-b9ff-5d54d087bb5e)
+
+
+
+
+
+
+
 **Key KPIs**
 
-        •	Total Customers
-        •	Average Spend per Customer
-        •	Total Orders
-        •	Repeat Customers
+        •	Total Customers: 3900
+        •	Average Spend per Customer: $60
+        •	Total Orders: 4k
+        •	Repeat Customers: 1.0
 
 **Visualisations**
 
@@ -254,7 +264,9 @@ The result gotten indicated that payment usage was evenly distributed and this m
         -    Sales by Discount
         -    Sales by Subscription
         -    Sales by Location
-        
+
+## Key Insights
+
 **Sales by Age Group**
 
         1.	25-34 and 45-54 age group generate the highest sales.
