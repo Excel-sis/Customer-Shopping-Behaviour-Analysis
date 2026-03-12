@@ -340,16 +340,16 @@ The company has a diverse geographic customer base.
         •	Diversify product portfolio to reduce dependency risk.
         •	Focus on improving customer engagement through loyalty programs, personalized marketing, post-purchase incentives, and enhanced customer experience to improve customer retention and increase long-term customer lifetime value.
 
-##Tools Used##
+## Tools Used
 
         o	Excel, Power Query and Power BI
 
-##Conclusion##
+## Conclusion
 
     -    The business demonstrates stable revenue performance and diversified item-level sales; however, strategic improvements are required in subscription engagement, category diversification, and demographic expansion.
     -    By implementing targeted retention strategies and product optimization initiatives, the company can significantly improve customer lifetime value and revenue sustainability.
 
-##Dashboard##
+## Dashboard
 
 
 
