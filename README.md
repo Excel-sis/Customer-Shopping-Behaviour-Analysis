@@ -253,6 +253,10 @@ The result gotten indicated that payment usage was evenly distributed and this m
 
 
 
+
+
+
+
 **Key KPIs**
 
         •	Total Customers: 3900
@@ -347,13 +351,49 @@ The company has a diverse geographic customer base.
 
 ##Dashboard##
 
+
+
 ![Sales Overview dashboard1](https://github.com/user-attachments/assets/9f2c2177-c4c6-463f-9bde-036427abbfa8)
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![Product Performance dashboard2](https://github.com/user-attachments/assets/d2a15fbe-d9ab-4409-826c-0ff04e8501bd)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Customer Behavior dashboard3](https://github.com/user-attachments/assets/25bf054e-ee34-4ef6-98a8-6087bbfc235e)
+
+
+
+
+
+
+
+
+
 
 
