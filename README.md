@@ -1,45 +1,70 @@
 # Customer-Shopping-Behaviour-Analysis
+
+## Table of Contents
+
+[Project Overview](project-overview)
+
+[Business Objectives](business-objectives)
+
+[Dataset Used](dataset-used)
+
+[Dataset Overview](dataset-overview)
+
+[Data Preparation](data-preparation)
+
+[Data Cleaning & Transformation (Power Query)](data-cleaning-&-transformation(power-query))
+
+[Data Modelling](data-modelling)
+
+[Visualization](visualization)
+
+[Formatting & Branding](formatting-&-branding)
+
+[Sales Performance Analysis](sales-performance-analysis)
+
+[Key Insights](key-insights)
+
+[Product Performance Analysis](product-performance-analysis)
+
+[Key Insights](key-insights)
+
+[Customer Behavior Analysis](customer-behavior-analysis)
+
+[Key Insights](key-insights)
+
+[Strategic Recommendations](strategic-recommendations)
+
+[Tools Used](tools-used)
+
+[Conclusion](conclusion)
+
+## Project Overview
+
 This project analyses customer shopping behaviour to uncover insights into sales performance, product effectiveness, and customer engagement patterns. The analysis identifies revenue concentration risks, subscription underperformance, gender imbalance in spending, and opportunities for product diversification and customer retention optimization.
 
 ## Business Objectives
 
 The analysis was aimed at achieving the following business objectives;
 
-**Analyze Customer Purchasing Behavior**
+    -    To understand how customers shop by examining purchase frequency, spending patterns, and buying trends.
 
-To understand how customers shop by examining purchase frequency, spending patterns, and buying trends.
+    -    To identify the best-performing product categories and top-selling items that contribute most to overall revenue.
 
-**Evaluate Product Performance**
+    -    To track key metrics such as total revenue, average revenue per transaction, total customers, and average customer spending.
 
-To identify the best-performing product categories and top-selling items that contribute most to overall revenue.
+    -    To analyze customer segments based on age group, gender, and location in order to identify the most valuable customer groups.
 
-**Measure Business Performance**
+    -    To explore seasonal sales trends and understand how different periods of the year influence purchasing behavior.
 
-To track key metrics such as total revenue, average revenue per transaction, total customers, and average customer spending.
+    -    To determine the most commonly used payment methods among customers.
 
-**Understand Customer Demographics**
+    -    To provide clear insights that help businesses improve marketing strategies, product planning, and inventory management.
 
-To analyze customer segments based on age group, gender, and location in order to identify the most valuable customer groups.
-
-**Identify Sales Trends and Patterns**
-
-To explore seasonal sales trends and understand how different periods of the year influence purchasing behavior.
-
-**Examine Payment Preferences**
-
-To determine the most commonly used payment methods among customers.
-
-**Support Data-Driven Decision Making**
-
-To provide clear insights that help businesses improve marketing strategies, product planning, and inventory management.
-
-**Improve Product and Inventory Strategy**
-
-To identify popular product attributes such as size and item type so businesses can optimize stock levels and meet customer demand.
-
-    
+    -    To identify popular product attributes such as size and item type so businesses can optimize stock levels and meet customer demand.
+   
 ## Dataset Used
 
+<a href="">Customers_Shopping_Behavior.csv</a>
 
 ## Dataset Overview
 The dataset contains information about customer demographics, purchasing patterns, product preferences, and engagement behavior. The dataset is designed to help analyze how different factors such as age, gender, product category, discounts, and subscription status influence customer spending and loyalty.
@@ -166,7 +191,9 @@ This proved that revenue distribution across purchase frequency types is relativ
         -    Revenue by Season and Category
         -    Sales by Payment Method
         -    Purchase by Size
-           
+
+## Key Insights
+
 **Seasonal Analysis – Revenue by Season and Category**
 
 Seasonal breakdown observations:
