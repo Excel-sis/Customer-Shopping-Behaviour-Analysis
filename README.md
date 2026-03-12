@@ -100,7 +100,7 @@ Created calculated columns and DAX measures for;
 ## Sales Performance Analysis
 
 
-https://github.com/Excel-sis/Customer-Shopping-Behaviour-Analysis/blob/main/%5BSales%20Overview%5Ddashboard1.jpg
+
 
 
 **Key KPIs Used;**
