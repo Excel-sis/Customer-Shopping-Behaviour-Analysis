@@ -40,6 +40,8 @@
 
 [Dashboard](dashboard)
 
+[Reference](reference)
+
 ## Project Overview
 
 This project analyses customer shopping behaviour to uncover insights into sales performance, product effectiveness, and customer engagement patterns. The analysis identifies revenue concentration risks, subscription underperformance, gender imbalance in spending, and opportunities for product diversification and customer retention optimization.
@@ -397,3 +399,11 @@ The company has a diverse geographic customer base.
 
 
 
+
+
+
+
+
+## Reference
+
+https://www.kaggle.com/datasets/nalisha/shopping-behaviour-and-product-ranking-dateset
