@@ -64,7 +64,7 @@ The analysis was aimed at achieving the following business objectives;
    
 ## Dataset Used
 
-<a href="">Customers_Shopping_Behavior.csv</a>
+<a href="https://github.com/Excel-sis/Customer-Shopping-Behaviour-Analysis/blob/main/Customers_Shopping_Behavior.csv">Customers_Shopping_Behavior.csv</a>
 
 ## Dataset Overview
 The dataset contains information about customer demographics, purchasing patterns, product preferences, and engagement behavior. The dataset is designed to help analyze how different factors such as age, gender, product category, discounts, and subscription status influence customer spending and loyalty.
@@ -167,7 +167,7 @@ This proved that revenue distribution across purchase frequency types is relativ
 
 **Top 5 Selling Items by Revenue**
 
-•	These showed that the top-selling items which were the blouse, shirt, dress, pants and jewelry generated similar revenue levels.
+These showed that the top-selling items which were the blouse, shirt, dress, pants and jewelry generated similar revenue levels.
 
 **Insight:** Top performing items are primarily clothing products, reinforcing the category dominance.
 
@@ -178,6 +178,16 @@ This proved that revenue distribution across purchase frequency types is relativ
         3.	Use these items for marketing campaigns.
 
 ## Product Performance Analysis 
+
+
+![Product Performance dashboard2](https://github.com/user-attachments/assets/ec51735a-5a5d-40c0-989f-618ad2af6864)
+
+
+
+
+
+
+
 
 **Key KPIs**
 
