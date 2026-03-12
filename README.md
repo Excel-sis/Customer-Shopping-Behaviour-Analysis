@@ -71,7 +71,7 @@ The analysis was aimed at achieving the following business objectives;
 <a href="https://github.com/Excel-sis/Customer-Shopping-Behaviour-Analysis/blob/main/Customers_Shopping_Behavior.csv">Customers_Shopping_Behavior.csv</a>
 
 ## Dataset Overview
-The dataset contains information about customer demographics, purchasing patterns, product preferences, and engagement behavior. The dataset is designed to help analyze how different factors such as age, gender, product category, discounts, and subscription status influence customer spending and loyalty.
+The dataset contains information about customer demographics, purchasing patterns, product preferences, and engagement behavior. The dataset was designed to help analyze how different factors such as age, gender, product category, discounts, and subscription status influence customer spending and loyalty.
 
 The dataset includes 3,900 customer records with multiple attributes describing customer transactions and behaviors. Each record represents a purchase made by a customer and includes details about the product purchased, the amount spent, payment method, purchase frequency, and customer review ratings.
 
