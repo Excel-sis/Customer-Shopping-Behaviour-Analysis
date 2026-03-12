@@ -100,6 +100,12 @@ Created calculated columns and DAX measures for;
 ## Sales Performance Analysis
 
 
+![Sales Overview dashboard1](https://github.com/user-attachments/assets/1d96a890-6a6b-4b71-a50b-333db9514e69)
+
+
+
+
+
 
 
 
