@@ -99,6 +99,10 @@ Created calculated columns and DAX measures for;
 
 ## Sales Performance Analysis
 
+
+https://github.com/Excel-sis/Customer-Shopping-Behaviour-Analysis/blob/main/%5BSales%20Overview%5Ddashboard1.jpg
+
+
 **Key KPIs Used;**
 
         •	Total Revenue: $233,081
@@ -116,7 +120,7 @@ Created calculated columns and DAX measures for;
 
 **Revenue by Category**
 
-•	The result gotten from the analysis shows that clothing generates approximately 45% of total revenue,  making it the core revenue driver and thereby creating category dependency risk.
+The result gotten from the analysis shows that clothing generates approximately 45% of total revenue,  making it the core revenue driver and thereby creating category dependency risk.
 
 **Business Risk:** Overreliance on a single category increases vulnerability to demand shifts.
 
@@ -124,7 +128,7 @@ Created calculated columns and DAX measures for;
 
 **Revenue by Frequency of Purchase**
 
-•	This proved that revenue distribution across purchase frequency types is relatively balanced, with quarterly and bi-weekly customers contributing slightly more.
+This proved that revenue distribution across purchase frequency types is relatively balanced, with quarterly and bi-weekly customers contributing slightly more.
 
 **Insight:** Moderate-frequency buyers are major revenue stabilizers.
 
