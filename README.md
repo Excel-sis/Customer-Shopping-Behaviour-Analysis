@@ -38,6 +38,8 @@
 
 [Conclusion](conclusion)
 
+[Dashboard](dashboard)
+
 ## Project Overview
 
 This project analyses customer shopping behaviour to uncover insights into sales performance, product effectiveness, and customer engagement patterns. The analysis identifies revenue concentration risks, subscription underperformance, gender imbalance in spending, and opportunities for product diversification and customer retention optimization.
@@ -242,7 +244,8 @@ The result gotten indicated that payment usage was evenly distributed and this m
 
 
 
-![Customer Behavior  dashboard3](https://github.com/user-attachments/assets/a34f2359-1f40-441f-b9ff-5d54d087bb5e)
+
+![Customer Behavior dashboard3](https://github.com/user-attachments/assets/a34f2359-1f40-441f-b9ff-5d54d087bb5e)
 
 
 
@@ -343,3 +346,14 @@ The company has a diverse geographic customer base.
     -    By implementing targeted retention strategies and product optimization initiatives, the company can significantly improve customer lifetime value and revenue sustainability.
 
 ##Dashboard##
+
+![Sales Overview dashboard1](https://github.com/user-attachments/assets/9f2c2177-c4c6-463f-9bde-036427abbfa8)
+
+
+![Product Performance dashboard2](https://github.com/user-attachments/assets/d2a15fbe-d9ab-4409-826c-0ff04e8501bd)
+
+
+
+![Customer Behavior dashboard3](https://github.com/user-attachments/assets/25bf054e-ee34-4ef6-98a8-6087bbfc235e)
+
+
